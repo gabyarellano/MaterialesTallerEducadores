@@ -1,6 +1,6 @@
 # Materiales para el Taller de Educadores
 
-| Herramienta                      | Instrucciones |
+| ##Herramienta                      | ##Instrucciones |
 |----------------------------------|-------------|
 | Livescripts                      | enlace aquí |
 | Apps                             | enlace aquí |
