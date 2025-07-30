@@ -7,10 +7,10 @@ Para ello, en la sección *Files*, haremos clic izquierdo en ESP_RegressionBasic
 ![Alt text](OpenAsLiveScript.png)
 ### 2. Esto nos abrirá un nuevo archivo. Podemos ver que:
 
-- MATLAB identificó algunos comentarios como texto.
-- MATLAB identificó las ecuaciones escritas en LaTeX y las representa visualmente.
+- MATLAB identificó algunos comentarios como texto e incluso títulos.
+- MATLAB identificó algunas de las ecuaciones escritas en LaTeX y las representa visualmente.
 
-### 3. Guardar el archivo.
+### 3. Hacer modificaciones necesarias y guardar el archivo.
 
 ### 4. Explorar el archivo y conversar acerca de:
 - Dónde se podría agregar más interactividad, imágenes, ecuaciones, hipervínculos, etc. para mejorar el material.
