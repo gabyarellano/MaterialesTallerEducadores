@@ -16,6 +16,8 @@ Para ello, en la sección *Files*, haremos clic izquierdo en ESP_RegressionBasic
 - Dónde se podría agregar más interactividad, imágenes, ecuaciones, hipervínculos, etc. para mejorar el material.
 - ¿En qué circunstancias tiene sentido ocultar o no ocultar el código?
 - Imprimir resultados en la ventana de comandos vs. otras opciones como no suprimir el resultado del código (es decir, no escribir *;* al final de la línea de código)
+- Compartir otros live scripts que hayan creado.
+- Retos/ideas para el uso de live scripts.
 - Podemos abrir archivos de Simulink desde MATLAB usando [open_system](https://la.mathworks.com/help/simulink/slref/open_system.html)
 
 
