@@ -3,7 +3,7 @@
 Para esta actividad utilizaremos una sección del material didáctico [Regression Basics](https://la.mathworks.com/matlabcentral/fileexchange/93435-regression-basics) traducido, en formato *.m*.
 Empezaremos con un script .m llamado [ESP_RegressionBasics.m](https://matlab.mathworks.com/open/github/v1?repo=gabyarellano/MaterialesTallerEducadores&file=ESP_RegressionBasics.m) que convertiremos en live script.
 ### 1. Abriremos el archivo como un live script 
-Para ello, en la sección *Files*, haremos clic izquierdo en ESP_RegressionBasics.m y seleccionaremos "Open as a Live Script".
+Para ello, en la sección *Files*, haremos clic derecho en ESP_RegressionBasics.m y seleccionaremos "Open as a Live Script".
 ![Alt text](OpenAsLiveScript.png)
 ### 2. Esto nos abrirá un nuevo archivo. Podemos ver que:
 
