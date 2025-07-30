@@ -22,7 +22,7 @@ Otro recurso: [App Building Onramp](https://matlabacademy.mathworks.com/es/detai
 
 | **Herramienta**                      | **Instrucciones** |
 |----------------------------------|-------------|
-| Livescripts                      | enlace aquí |
-| Apps                             | enlace aquí |
-| MATLAB Grader                    | enlace aquí |
-| Simulación con Simulink/Simscape | enlace aquí |
+| Livescripts                      | [Accede aquí](https://github.com/gabyarellano/MaterialesTallerEducadores/tree/master/LiveScripts) | |
+| Apps                             | [Accede aquí](https://github.com/gabyarellano/MaterialesTallerEducadores/tree/master/Apps)|
+| MATLAB Grader                    | [Accede aquí](https://github.com/gabyarellano/MaterialesTallerEducadores/tree/master/MATLAB%20Grader)|
+| Simulación con Simulink/Simscape | [Accede aquí](https://github.com/gabyarellano/MaterialesTallerEducadores/tree/master/Simulacion) |
