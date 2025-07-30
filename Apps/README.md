@@ -12,9 +12,11 @@ Para esta actividad utilizaremos el ejemplo mostrado en [este video](https://www
 - Facilitadores pueden mostrar sus propias apps
 - Planes de los participantes para sus propias apps y/o retos desarrollando apps.
 
+Puedes usar la "solución" en el archivo [RegressionBasics_SOL.mlx](https://matlab.mathworks.com/open/github/v1?repo=gabyarellano/MaterialesTallerEducadores&file=RegressionBasics_SOL.mlx)
 
-Otro recurso: [App Building Onramp](https://matlabacademy.mathworks.com/es/details/app-building-onramp/orab)
-
+### Otros recursos: 
+- [App Building Onramp](https://matlabacademy.mathworks.com/es/details/app-building-onramp/orab)
+- [Apps en File Exchange](https://la.mathworks.com/matlabcentral/fileexchange/?type%5B%5D=apps)
 
 
 #
