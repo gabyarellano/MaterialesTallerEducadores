@@ -2,7 +2,7 @@
 
 
 
-### 1. Explorar los ejemplos con el archivo en [instrucciones.mlx](https://matlab.mathworks.com/open/github/v1?repo=gabyarellano/MaterialesTallerEducadores&file=instrucciones_Simulink)
+### 1. Explorar los ejemplos con el archivo en [instrucciones.mlx](https://matlab.mathworks.com/open/github/v1?repo=gabyarellano/MaterialesTallerEducadores&file=instrucciones_Simulink.mlx)
 Este circuito ilustra un filtro paso bajo. Dicho modelo puede ser utilizado para la simulación y análisis de circuitos eléctricos. 
 
 
