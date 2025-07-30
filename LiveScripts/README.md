@@ -20,7 +20,10 @@ Para ello, en la sección *Files*, haremos clic izquierdo en ESP_RegressionBasic
 - Retos/ideas para el uso de live scripts.
 - Podemos abrir archivos de Simulink desde MATLAB usando [open_system](https://la.mathworks.com/help/simulink/slref/open_system.html)
 
+### Otros recursos:
 
+- [Live scripts compartidos en FileExchange](https://la.mathworks.com/matlabcentral/fileexchange?utf8=%E2%9C%93&term=%22live+script%22)
+- [Material didáctico](https://la.mathworks.com/academia/courseware.html)
 
 #
 **Para navegar a las demás herramientas:**
