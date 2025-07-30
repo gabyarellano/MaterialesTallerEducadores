@@ -24,6 +24,7 @@ Para ello, en la sección *Files*, haremos clic izquierdo en ESP_RegressionBasic
 
 - [Live scripts compartidos en FileExchange](https://la.mathworks.com/matlabcentral/fileexchange?utf8=%E2%9C%93&term=%22live+script%22)
 - [Material didáctico](https://la.mathworks.com/academia/courseware.html)
+- [Live scripts for Online Teaching](https://youtu.be/mICYVEwe6Jg?si=6JEffJlwdREMxCjV)
 
 #
 **Para navegar a las demás herramientas:**

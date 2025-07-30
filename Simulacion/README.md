@@ -17,7 +17,7 @@ Este circuito ilustra un filtro paso bajo. Dicho modelo puede ser utilizado para
 
 - Incorporar interactividad para los estudiantes. Podemos utilizar [paneles](https://la.mathworks.com/help/simulink/ug/getting-started-with-panels.html). Puedes ver la "solución" con paneles en acción en el archivo lowpassRCFilter_R24b_panels
 
-Temas 
+
 
 
 
