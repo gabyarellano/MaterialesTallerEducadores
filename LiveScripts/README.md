@@ -4,7 +4,7 @@ Para esta actividad utilizaremos una sección del material didáctico [Regressio
 Empezaremos con un script .m llamado [ESP_RegressionBasics.m](https://matlab.mathworks.com/open/github/v1?repo=gabyarellano/MaterialesTallerEducadores&file=ESP_RegressionBasics.m) que convertiremos en live script.
 ### 1. Abriremos el archivo como un live script 
 Para ello, en la sección *Files*, haremos clic izquierdo en ESP_RegressionBasics.m y seleccionaremos "Open as a Live Script".
-![https://github.com/gabyarellano/MaterialesTallerEducadores/blob/master/LiveScripts/OpenAsLiveScript.png]
+![Alt text](OpenAsLiveScript.png)
 ### 2. Esto nos abrirá un nuevo archivo. Podemos ver que:
 
 - MATLAB identificó algunos comentarios como texto.
